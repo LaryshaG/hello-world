@@ -2,4 +2,4 @@
 Just another repository
 
 
-branch
+I changed this in the new branch
